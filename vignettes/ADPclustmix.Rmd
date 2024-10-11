@@ -1,0 +1,20 @@
+---
+title: "Fast Clustering Using Adaptive Density Peak Detection For Mixed Type data (ADPclustmix)"
+author: Yanjun Wu (wuy5@ccf.org)\nXiao-Feng Wang (xfwang@gmail.com)
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ADPclustmix}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(ADPclustmix)
+```
