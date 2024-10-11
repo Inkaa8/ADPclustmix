@@ -18,7 +18,7 @@ devtools::install_github("Inkaa8/ADPclustmix")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example run on a preloaded data set::
 
 ``` r
 library(ADPclustmix)
